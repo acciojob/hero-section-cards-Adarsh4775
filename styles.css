@@ -2,11 +2,12 @@
 body{
 	width:100vw;
 	
+	
+}
+.hero-section{
+	height:500px;
 	background-image:url("https://m.media-amazon.com/images/I/51ZVeRqZvGL._SX3000_.jpg");
 background-size:cover;
-}
-.hero{
-	height:500px;
 }
 .pcard1{
 	position:absolute;
