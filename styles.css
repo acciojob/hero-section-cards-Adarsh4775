@@ -11,7 +11,7 @@ background-size:cover;
 	position:absolute;
 	display:flex;
 	top:250px;
-	left:40px;
+	left:100px;
 	text-align:center;
 	width:300px;
 	height:340px;
@@ -22,7 +22,7 @@ background-size:cover;
 	position:absolute;
 	display:flex;
 	top:250px;
-	left:370px;
+	left:100px;
 	text-align:center;
 	width:300px;
 	height:340px;
@@ -33,14 +33,14 @@ background-size:cover;
 	position:absolute;
 	display:flex;
 	top:250px;
-	left:690px;
+	left:100px;
 	text-align:center;
 	width:300px;
 	height:340px;
 	background-color:white;
 	box-shadow:5px 10px #888888;
 }
-.product-cards img{
+.product-card img{
 	padding-top:20px;
 }
 
