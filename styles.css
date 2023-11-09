@@ -1,1 +1,44 @@
 /*  your css code here. If applicable */
+body{
+	width:100vw;
+	
+	background-image:url("https://m.media-amazon.com/images/I/51ZVeRqZvGL._SX3000_.jpg");
+background-size:cover;
+}
+.hero{
+	height:500px;
+}
+.pcard1{
+	position:absolute;
+	top:250px;
+	left:40px;
+	text-align:center;
+	width:300px;
+	height:340px;
+	background-color:white;
+    box-shadow:5px 10px #888888;
+}
+.pcard2{
+	position:absolute;
+	top:250px;
+	left:370px;
+	text-align:center;
+	width:300px;
+	height:340px;
+	background-color:white;
+	box-shadow:5px 10px #888888;
+}
+.pcard3{
+	position:absolute;
+	top:250px;
+	left:690px;
+	text-align:center;
+	width:300px;
+	height:340px;
+	background-color:white;
+	box-shadow:5px 10px #888888;
+}
+img{
+	padding-top:20px;
+}
+
