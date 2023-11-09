@@ -2,7 +2,7 @@
 body{
 	width:100vw;
 }
-.hero-section{
+.hero-section {
 	height:500px;
 	background-image:url("https://m.media-amazon.com/images/I/51ZVeRqZvGL._SX3000_.jpg");
 background-size:cover;
@@ -40,6 +40,8 @@ background-size:cover;
 }
 .product-card img{
 	width:100px;
+	height:150px;
+	object-fit:cover;
 	margin-left:100px;
 	background-size:cover;
 }
