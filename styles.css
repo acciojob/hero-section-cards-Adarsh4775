@@ -39,7 +39,7 @@ background-size:cover;
 	flex-direction:row;
 }
 .product-card img{
-	width:100px;
+	width:101px;
 	height:150px;
 	object-fit:cover;
 	margin-left:100px;
